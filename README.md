@@ -22,7 +22,7 @@ Explore [this notebook](https://github.com/reshalfahsi/cheetah-robot-ppo/blob/ma
 ## Reward Curve
 
 
-<p align="center"> <img src="https://github.com/reshalfahsi/cheetah-robot-ppo/blob/master/assets/reward_curve.png" alt="reward_curve" > <br /> TThe reward tends to climb up in the course of the Cheetah robot training. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/cheetah-robot-ppo/blob/master/assets/reward_curve.png" alt="reward_curve" > <br /> The reward tends to climb up in the course of the Cheetah robot training. </p>
 
 
 ## Qualitative Result

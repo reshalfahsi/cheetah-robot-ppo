@@ -31,7 +31,13 @@ Explore [this notebook](https://github.com/reshalfahsi/cheetah-robot-ppo/blob/ma
 Here, the Cheetah robot is assigned to speedily maneuver forward as distantly as possible without stumbling and slipping, which can hinder its brisk gait mobility. It is illustrated in the ensuing GIF.
 
 
-<p align="center"> <img src="https://github.com/reshalfahsi/cheetah-robot-ppo/blob/master/assets/qualitative_cheetah_robot.gif" alt="qualitative_cheetah_robot" > <br /> The Cheetah robot sprints predominantly stable in the simulated environment following the learned deterministic policy of PPO. </p>
+<p align="center">
+    <a href="https://youtu.be/HemWzE05-q4"> 
+    <img src="https://github.com/reshalfahsi/cheetah-robot-ppo/blob/master/assets/qualitative_cheetah_robot.gif" alt="qualitative_cheetah_robot"> 
+    </a>
+    <br />
+    The Cheetah robot sprints predominantly stable in the simulated environment following the learned deterministic policy of PPO. 
+</p>
 
 
 ## Credit

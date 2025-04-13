@@ -32,7 +32,7 @@ Here, the Cheetah robot is assigned to speedily maneuver forward as distantly as
 
 
 <p align="center">
-    <a href="https://youtu.be/IoySjFlVANY"> 
+    <a href="https://youtu.be/WxhuY_5ECvI"> 
     <img src="https://github.com/reshalfahsi/cheetah-robot-ppo/blob/master/assets/qualitative_cheetah_robot.gif" alt="qualitative_cheetah_robot" width="400"> 
     </a>
     <br />
